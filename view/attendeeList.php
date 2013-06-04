@@ -1,4 +1,4 @@
-<div id="row2">
+<div id="row2">  // hi there
 		<h2 class="spcr-b">Attendees List</h2>
 
   <?php foreach ($attendeelist as $attendee) {?>	
